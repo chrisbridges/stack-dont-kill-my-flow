@@ -9,6 +9,6 @@ img .img_ad,
 a .img_ad, 
 ._jobs,
 #sidebar img,
-.everyonelovesstackoverflow img {
+.everyonelovesstackoverflow {
   visibility: hidden !important;
 }
