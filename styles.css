@@ -9,6 +9,8 @@ img .img_ad,
 a .img_ad, 
 ._jobs,
 #sidebar img,
-.everyonelovesstackoverflow {
-  visibility: hidden !important;
+.everyonelovesstackoverflow,
+#chat-feature {
+  /* visibility: hidden !important; */
+  display: none !important;
 }
