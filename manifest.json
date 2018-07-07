@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Stack - Don't Kill My Flow",
+  "description": "Removes all of the fluff from Stack Overflow to limit distractions",
+  "version": "1.0",
+
+  "page_action": {
+    "default_icon": "male-technologist.png",
+    "default_popup": "popup.html",
+    "default_title": "Stack - Don't Kill My Flow"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.stackoverflow.com/questions/*"],
+      "css": ["styles.css"]
+    }
+  ]
+}
