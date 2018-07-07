@@ -1,0 +1,2 @@
+const toHide = ['community-bulletin'];
+

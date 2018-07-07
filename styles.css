@@ -1,0 +1,14 @@
+.community-bulletin, 
+#hire-me, 
+#hireme, 
+#hot-network-questions, 
+#clc-tsb, 
+#clc-tlb, 
+#google_image_div, 
+img .img_ad, 
+a .img_ad, 
+._jobs,
+#sidebar img,
+.everyonelovesstackoverflow img {
+  visibility: hidden !important;
+}

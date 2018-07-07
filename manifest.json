@@ -12,7 +12,7 @@
 
   "content_scripts": [
     {
-      "matches": ["https://www.stackoverflow.com/questions/*"],
+      "matches": ["https://stackoverflow.com/questions/*"],
       "css": ["styles.css"]
     }
   ]
