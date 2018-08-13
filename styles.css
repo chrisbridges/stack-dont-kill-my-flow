@@ -11,6 +11,5 @@ a .img_ad,
 #sidebar img,
 .everyonelovesstackoverflow,
 #chat-feature {
-  /* visibility: hidden !important; */
   display: none !important;
 }
